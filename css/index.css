@@ -1,0 +1,45 @@
+body{
+	margin: 0px;
+}
+/*head开始*/
+.head{
+	background-color: gainsboro;
+	width: 100%;
+	height: 35px;
+}
+.qq{
+	margin-left:1500px;
+}
+/*结束*/
+
+/*logo开始*/
+.logo{
+	width: 200px;
+	height: 88px;
+	margin-left: 150px;
+}
+/*logo结束*/
+
+/*nav开始*/
+.nav{
+	list-style: none;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+.nav img{
+	margin-left: 18px;
+}
+/*nav结束*/
+
+/*背景图*/
+.back{
+	background-image: url(../img/background.png);
+	width: 100%;
+	height: 150px;
+}
+.back h1{
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+}
+/*背景图结束*/
